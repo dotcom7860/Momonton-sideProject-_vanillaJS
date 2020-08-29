@@ -1,0 +1,22 @@
+.form,
+.greeting{
+    display: none;
+    text-align: center;
+    font-size : 30px;
+    color: white;
+    margin-bottom : 20px;
+}
+
+.showing{
+    display: block;
+}
+
+.form input{
+    font-size : 30px;
+    border-top : 0px;
+    border-left : 0px;
+    border-right: 0px;
+    background-color: transparent;
+    outline : none;
+    color : white;
+}
